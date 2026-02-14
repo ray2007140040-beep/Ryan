@@ -1,0 +1,7 @@
+{
+  "name": "Combat Bible - 格斗宝典",
+  "description": "A high-performance SaaS teaching management system for combat gyms, focused on standardized curriculum and compliance verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
